@@ -230,14 +230,14 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
       <a href="https://github.com/seuusuario">
         <img src="https://github.com/seuusuario.png" width="100px;" alt="Foto do Autor"/><br>
         <sub>
-          <b>Seu Nome</b>
+          <b>Mari Ayres </b>
         </sub>
       </a>
       <br>
       <a href="https://linkedin.com/in/seuperfil" title="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
       </a>
-      <a href="mailto:seu@email.com" title="Email">
+      <a href="mailto:marianacamurcaoliveira@gmail.com" title="Email">
         <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
       </a>
     </td>

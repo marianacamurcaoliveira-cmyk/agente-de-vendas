@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Agente de Vendas IA</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
+```
+
+3. **Salve**
+
+---
+
+### **PASSO 8: Criar .gitignore**
+
+1. **Na raiz**, crie o arquivo `.gitignore`
+2. **Cole isso:**
+```
+# Dependências
+node_modules
+.pnp
+.pnp.js
+
+# Build
+dist
+dist-ssr
+*.local
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Variáveis de ambiente
+.env
+.env.local
+.env.production.local
+.env.development.local
+.env.test.local
+```
+
+3. **Salve**
+
+---
+
+## 📁 Estrutura Final
+
+Seu projeto deve ficar assim:
+```
+agente-vendas-ia/
+├── .gitignore
+├── index.html
+├── package.json
+├── postcss.config.js
+├── tailwind.config.js
+├── vite.config.js
+└── src/
+    ├── App.jsx          ← Seu código do agente aqui
+    ├── index.css
+    └── main.jsx

@@ -1,6 +1,6 @@
 # agente-de-vendas
 Sistema inteligente de vendas que usa IA da Anthropic para qualificar leads, gerar estratégias personalizadas e automatizar conversas de vendas.
-# 🤖 Agente de Vendas IA 
+# 🤖 Agente de Vendas IA (Powered by Claude)
 
 <div align="center">
 
